@@ -1,0 +1,204 @@
+
+[
+  {
+    "question": "What is the check-in time? When can guests enter their room?",
+    "answer": "Check-in starts at 11 AM. Early check-in may be available depending on room availability."
+  },
+  {
+    "question": "What is the check-out time? When should guests leave the hotel room?",
+    "answer": "Check-out time is 8 AM. Late check-out can be requested at the reception desk."
+  },
+  {
+    "question": "Do you provide free WiFi? Is internet facility available in rooms?",
+    "answer": "Yes, complimentary high-speed WiFi is available throughout the hotel including all guest rooms and common areas."
+  },
+  {
+    "question": "What are the swimming pool timings? When is the pool open?",
+    "answer": "The swimming pool is open daily from 6 AM to 9 PM for all hotel guests."
+  },
+  {
+    "question": "Do you provide airport pickup or transportation services?",
+    "answer": "Yes, airport pickup and drop-off services are available upon request with additional charges."
+  },
+  {
+    "question": "Is complimentary breakfast included? What are breakfast timings?",
+    "answer": "Complimentary breakfast is available from 7 AM to 10 AM in the dining area."
+  },
+  {
+    "question": "Do you have parking facilities? Is car parking available?",
+    "answer": "Yes, free parking facilities are available for hotel guests."
+  },
+  {
+    "question": "Is room service available in the hotel?",
+    "answer": "Yes, room service is available from 9 AM to 11 PM daily."
+  },
+  {
+    "question": "Do the hotel rooms have air conditioning?",
+    "answer": "Yes, all rooms are equipped with air conditioning facilities."
+  },
+  {
+    "question": "Do you provide laundry services?",
+    "answer": "Yes, laundry and ironing services are available for guests at additional charges."
+  },
+  {
+    "question": "Is hot water available in the rooms?",
+    "answer": "Yes, 24-hour hot water service is available in all bathrooms."
+  },
+  {
+    "question": "Do you have family rooms or large rooms for groups?",
+    "answer": "Yes, family rooms and interconnected rooms are available for larger groups and families."
+  },
+  {
+    "question": "Can extra beds be provided in the room?",
+    "answer": "Yes, extra beds can be arranged upon request depending on room size and availability."
+  },
+  {
+    "question": "Do you allow pets in the hotel?",
+    "answer": "Pets are not allowed inside the hotel premises."
+  },
+  {
+    "question": "Is smoking allowed in the hotel rooms?",
+    "answer": "Smoking is strictly prohibited inside hotel rooms and indoor public areas."
+  },
+  {
+    "question": "Do you have a restaurant inside the hotel?",
+    "answer": "Yes, the hotel has an in-house restaurant serving breakfast, lunch, and dinner."
+  },
+  {
+    "question": "What cuisines are available in the restaurant?",
+    "answer": "The restaurant serves Indian, Continental, and Chinese cuisine."
+  },
+  {
+    "question": "Is vegetarian food available in the hotel restaurant?",
+    "answer": "Yes, vegetarian and vegan meal options are available in the restaurant."
+  },
+  {
+    "question": "Do hotel rooms include television facilities?",
+    "answer": "Yes, all rooms are equipped with smart TVs and cable channels."
+  },
+  {
+    "question": "Do you provide daily housekeeping or room cleaning services?",
+    "answer": "Yes, housekeeping services are provided daily for all rooms."
+  },
+  {
+    "question": "Can housekeeping be requested anytime?",
+    "answer": "Yes, housekeeping assistance can be requested through the reception desk."
+  },
+  {
+    "question": "Do you provide towels and toiletries in the rooms?",
+    "answer": "Yes, fresh towels, soap, shampoo, and basic toiletries are provided complimentary."
+  },
+  {
+    "question": "Is there a gym or fitness center in the hotel?",
+    "answer": "Yes, the hotel has a fitness center accessible from 6 AM to 10 PM."
+  },
+  {
+    "question": "Do you have conference rooms or meeting halls?",
+    "answer": "Yes, conference halls and meeting rooms are available for business events and gatherings."
+  },
+  {
+    "question": "Can I book rooms online?",
+    "answer": "Yes, rooms can be booked online through the hotel website or by contacting reception."
+  },
+  {
+    "question": "Do you provide 24-hour reception service?",
+    "answer": "Yes, the front desk operates 24 hours a day."
+  },
+  {
+    "question": "Is the hotel suitable for families with children?",
+    "answer": "Yes, the hotel is family-friendly and suitable for guests with children."
+  },
+  {
+    "question": "Do you have elevator or lift facilities?",
+    "answer": "Yes, elevator facilities are available for guest convenience."
+  },
+  {
+    "question": "Are the hotel rooms soundproof?",
+    "answer": "Yes, most rooms are designed with soundproofing for guest comfort."
+  },
+  {
+    "question": "Do rooms include a minibar or refrigerator?",
+    "answer": "Selected rooms include minibar and refrigerator facilities."
+  },
+  {
+    "question": "Is there 24-hour security in the hotel?",
+    "answer": "Yes, the hotel provides 24-hour CCTV monitoring and security services."
+  },
+  {
+    "question": "Can guests request wake-up calls?",
+    "answer": "Yes, wake-up call services are available upon request."
+  },
+  {
+    "question": "Do you provide shuttle services to tourist locations?",
+    "answer": "Yes, local transportation and sightseeing assistance can be arranged."
+  },
+  {
+    "question": "Can I cancel or modify my booking?",
+    "answer": "Booking cancellation and modification depend on the reservation policy and booking type."
+  },
+  {
+    "question": "Do you offer honeymoon room decoration services?",
+    "answer": "Yes, honeymoon room decoration can be arranged upon request."
+  },
+  {
+    "question": "Is the hotel near tourist attractions or city center?",
+    "answer": "Yes, the hotel is conveniently located near major tourist attractions and transportation hubs."
+  },
+  {
+    "question": "Do you provide luggage storage facilities?",
+    "answer": "Yes, luggage storage service is available before check-in and after check-out."
+  },
+  {
+    "question": "Can guests receive food deliveries from outside?",
+    "answer": "Yes, outside food deliveries are permitted at the reception area."
+  },
+  {
+    "question": "Do hotel rooms have balconies or good views?",
+    "answer": "Selected rooms offer balconies and scenic city or garden views."
+  },
+  {
+    "question": "Are there any entertainment facilities in the hotel?",
+    "answer": "Yes, the hotel offers indoor games, TV lounge, and entertainment facilities."
+  },
+  {
+    "question": "Can I request an early breakfast?",
+    "answer": "Yes, early breakfast arrangements may be available upon prior request."
+  },
+  {
+    "question": "Do you provide drinking water in the rooms?",
+    "answer": "Yes, complimentary bottled drinking water is provided daily."
+  },
+  {
+    "question": "Is there a doctor or medical assistance available nearby?",
+    "answer": "Yes, medical assistance and nearby hospital information can be provided by reception."
+  },
+  {
+    "question": "Do you have facilities for disabled guests?",
+    "answer": "Yes, accessible rooms and wheelchair assistance are available."
+  },
+  {
+    "question": "Can I host birthday parties or private events at the hotel?",
+    "answer": "Yes, banquet halls and event spaces are available for celebrations and gatherings."
+  },
+  {
+    "question": "Do you provide taxi booking services?",
+    "answer": "Yes, taxi and cab booking assistance are available through reception."
+  },
+  {
+    "question": "Is there a curfew or restricted entry time for guests?",
+    "answer": "No, guests can access the hotel at any time using their room key and registration details."
+  },
+  {
+    "question": "Do you provide ironing facilities in the hotel?",
+    "answer": "Yes, ironing facilities and ironing service are available upon request."
+  },
+  {
+    "question": "Can unmarried couples stay in the hotel?",
+    "answer": "Yes, unmarried couples are welcome with valid government-issued identification."
+  },
+  {
+    "question": "What identification documents are required during check-in?",
+    "answer": "Guests are required to present valid government-issued Adhaar card identification during check-in."
+  }
+]
+
