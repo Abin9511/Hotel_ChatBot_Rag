@@ -32,19 +32,39 @@ The chatbot follows strict **anti-hallucination rules** and only answers from re
 5. Gemini generates final response
 6. If low confidence → fallback message is shown
 
----
-
- Project Structure
 
 
+ ## Setup and Execution Instructions
 
+### 1. Clone the repository
 
----
+git clone https://github.com/Abin9511/Hotel_ChatBot_Rag.git
 
- How to Run
+cd Hotel_ChatBot_Rag
 
-### 1. Install dependencies
+### 2. Install dependencies
 
 pip install flask faiss-cpu sentence-transformers google-generativeai numpy
 
+### 3. Configure Gemini API Key
+
+Open gemini.py and add your Gemini API key:
+
+genai.configure(api_key="YOUR_API_KEY")
+
+### 4. Create FAISS Index
+
+Run:
+
+python rag_index.py
+
+(This generates hotel_bot.index from knowledge_base.json)
+
+### 5. Start the application
+
+python main.py
+
+### 6. Open the chatbot
+
+http://127.0.0.1:5000/chatbot
 
